@@ -1,7 +1,8 @@
 # world_layoffs_analysis
 The COVID-19 pandemic, which emerged in early 2020, has had far-reaching effects on global economies, leading to significant disruptions and workforce reductions. As companies sought to navigate the unprecedented challenges posed by the pandemic, many implemented mass layoffs as a necessary cost-cutting strategy. This analysis aims to explore layoff trends globally from 2020 to 2023, pinpointing the sectors and countries that were most impacted and identifying companies that experienced the highest levels of layoffs.  
 
-Dataset Link : https://www.kaggle.com/datasets/swaptr/layoffs-2022?resource=download  
+Dataset Link : https://www.kaggle.com/datasets/swaptr/layoffs-2022?resource=download    
+Clean Dataset : https://github.com/mfakhriazhar/data-cleaning-sql
 
 Goals :  
 This analysis aims to explore layoff trends worldwide from March 2020 to March 2023 using structured data exploration through SQL. The main objectives are to identify trends in layoffs over time, determine which industries and countries are most affected, and highlight companies with the largest number of layoffs. The methodology involves querying and aggregating data using SQL to uncover patterns and generate insights, focusing on key variables such as total layoffs, industry, company, country, and funding stage. The approach is purely exploratory, with the goal of presenting data.  
